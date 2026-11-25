@@ -16,6 +16,16 @@ namespace MVCLS.Controllers
             return View();
         }
 
+        public IActionResult Hana()
+        {
+            return View();
+        }
+
+        public IActionResult Yce()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
