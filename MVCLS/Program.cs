@@ -4,7 +4,7 @@ namespace MVCLS
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World, from Yce <3"); 
+            Console.WriteLine("Welcome to ADET from Hana and Yce <3 :P");
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
